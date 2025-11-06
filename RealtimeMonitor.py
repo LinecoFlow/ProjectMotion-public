@@ -1,3 +1,6 @@
+# Using the In-App realtime feature.
+# Data collected through this method is not licensed under MIT, and not free for commercial usage.
+
 import flask
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
